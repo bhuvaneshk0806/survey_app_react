@@ -1,0 +1,10 @@
+.Main {
+    overflow: auto;
+}
+.dummy{
+    padding : 1px;
+   text-align: left;
+}
+.table{
+    border : 2px;
+}
